@@ -26,6 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-===========================================================================
+/*====================================================================================*/
+# PROYECTO CON ANGULAR 17.0 CON TAILWIND PODEMOS VER COMBIO DE ESTRUCTURA DE PROYECTO ANGULAR
+Istalación de `Tailwind` *npm install -D tailwindcss postcss autoprefixer*
+Inicializamos `Tailwind` *npx tailwindcss init*
+En el archivo `tailwind.config.js` *Pegamos el complemento y quedaria de la siguiente manera*
+
+module.exports = {
+content: [
+"./src/**/*.{html,ts}",
+],
+
+En el archivo 
+/*====================================================================================*/
 # Creación tres ambientes Desarrollo, Pruebas y Producción.
 
