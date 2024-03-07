@@ -30,6 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # PROYECTO CON ANGULAR 17.0 CON TAILWIND PODEMOS VER COMBIO DE ESTRUCTURA DE PROYECTO ANGULAR
 Istalación de `Tailwind` *npm install -D tailwindcss postcss autoprefixer*
 Inicializamos `Tailwind` *npx tailwindcss init*
+Nos debe crear en la estructura de nuestro proyecto el archivo `tailwind.config.js`
 En el archivo `tailwind.config.js` *Pegamos el complemento y quedaria de la siguiente manera*
 
 module.exports = {
