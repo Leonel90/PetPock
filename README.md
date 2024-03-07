@@ -37,7 +37,8 @@ content: [
 "./src/**/*.{html,ts}",
 ],
 
-En el archivo 
+Configuracion de con Tailwind nos dirigimos a la siguiente pagina *https://tailwindcomponents.com/component/dashboard-navigation*
+
 /*====================================================================================*/
 # Creación tres ambientes Desarrollo, Pruebas y Producción.
 
